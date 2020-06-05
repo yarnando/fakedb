@@ -1,0 +1,74 @@
+{
+  "listagem": {
+    "status": true,
+    "msg": "",
+    "data": [
+      {
+        "id_local": "1",
+        "local": "Sala Vermelha",
+        "capacidade_instalada": "0",
+        "leitos_ocupados": "0",
+        "leitos_ocupados_suspeita_confirmados_covid": "0",
+        "leitos_ocupados_uso_ventilacao_mecanica": "0"
+      },
+      {
+        "id_local": "2",
+        "local": "Sala Amarela",
+        "capacidade_instalada": "0",
+        "leitos_ocupados": "0",
+        "leitos_ocupados_suspeita_confirmados_covid": "0",
+        "leitos_ocupados_uso_ventilacao_mecanica": "0"
+      },     
+      {
+        "id_local": "3",
+        "local": "Sala de atendimento pediátrico",
+        "capacidade_instalada": "0",
+        "leitos_ocupados": "0",
+        "leitos_ocupados_suspeita_confirmados_covid": "0",
+        "leitos_ocupados_uso_ventilacao_mecanica": "0"
+      },     
+      {
+        "id_local": "4",
+        "local": "Isolamento",
+        "capacidade_instalada": "0",
+        "leitos_ocupados": "0",
+        "leitos_ocupados_suspeita_confirmados_covid": "0",
+        "leitos_ocupados_uso_ventilacao_mecanica": "0"
+      },     
+      {
+        "id_local": "5",
+        "local": "Enfermaria",
+        "capacidade_instalada": "0",
+        "leitos_ocupados": "0",
+        "leitos_ocupados_suspeita_confirmados_covid": "0",
+        "leitos_ocupados_uso_ventilacao_mecanica": "0"
+      },     
+      {
+        "id_local": "6",
+        "local": "UI",
+        "capacidade_instalada": "0",
+        "leitos_ocupados": "0",
+        "leitos_ocupados_suspeita_confirmados_covid": "0",
+        "leitos_ocupados_uso_ventilacao_mecanica": "0"
+      },     
+      {
+        "id_local": "7",
+        "local": "CTI",
+        "capacidade_instalada": "0",
+        "leitos_ocupados": "0",
+        "leitos_ocupados_suspeita_confirmados_covid": "0",
+        "leitos_ocupados_uso_ventilacao_mecanica": "0"
+      }
+    ]
+  },
+  "salvar_ok": {
+      "status": true,
+      "msg": "",
+      "data": []    
+  },  
+  "salvar_erro": {
+      "status": false,
+      "msg": "Erro ao salvar informações.",
+      "data": []    
+  }  
+}
